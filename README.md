@@ -10,7 +10,7 @@
 
 # 2 架构图：
 
-![332698504-1eddd9b1-1ada-4145-a894-207470923aa0](https://github.com/swx2021/DataElf/assets/80183322/c93947cd-a454-4c04-b5d1-83d5ea0054ed)
+![图片](https://github.com/swx2021/DataElf/assets/80183322/37168547-14b1-4f58-b8a5-2890e4815140)
 
 
 
